@@ -1,0 +1,34 @@
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.exe
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.deps.json
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.runtimeconfig.json
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.dll
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.pdb
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.Form1.resources
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.AssemblyInfoInputs.cache
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.AssemblyInfo.cs
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.dll
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\ref\kelimeAvi.dll
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.pdb
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.genruntimeconfig.cache
+C:\Users\Ogrenci\Desktop\NESNETABANLI\WPFUyg\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\refint\kelimeAvi.dll
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.csproj.AssemblyReference.cache
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.Form1.resources
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.csproj.GenerateResource.cache
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.GeneratedMSBuildEditorConfig.editorconfig
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.AssemblyInfoInputs.cache
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.AssemblyInfo.cs
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.csproj.CoreCompileInputs.cache
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.dll
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.pdb
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.exe
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.deps.json
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.runtimeconfig.json
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.dll
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\kelimeAvi.pdb
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\kelimeAvi.genruntimeconfig.cache
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\obj\Debug\net6.0-windows\ref\kelimeAvi.dll
+E:\NESNE TABANLI\kelimeAvi\kelimeAvi\bin\Debug\net6.0-windows\ref\kelimeAvi.dll
